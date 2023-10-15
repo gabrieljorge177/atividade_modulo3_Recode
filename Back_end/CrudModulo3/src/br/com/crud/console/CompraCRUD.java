@@ -1,4 +1,4 @@
-package Main;
+package br.com.crud.console;
 
 import br.com.crud.dao.Cliente_DAO;
 import br.com.crud.dao.Compra_DAO;

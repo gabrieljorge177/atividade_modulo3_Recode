@@ -1,4 +1,4 @@
-package Main;
+package br.com.crud.console;
 
 import java.util.Scanner;
 
