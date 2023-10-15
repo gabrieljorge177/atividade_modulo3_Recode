@@ -11,8 +11,6 @@ public class ConnectionFactory {
 	//Senha do MySql
 	private static final String PASSWORD = "2563724Gfh";
 	
-	//Dados de caminho, porta e nome da base de dados que irá
-	//ser feita a conexao
 	
 	private static final String DATABASE_URL =
 	"jdbc:mysql://localhost:3306/agencia";

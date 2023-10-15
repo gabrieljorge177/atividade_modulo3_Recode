@@ -34,7 +34,7 @@ public class PassagemCRUD {
 	                	data_passagem = scanner.nextLine();
 	                	System.out.print("Digite o preço: ");
 	                	preço = scanner.nextDouble();
-	                	scanner.nextLine(); // Consuma a nova linha pendente após a leitura do preço
+	                	scanner.nextLine(); 
 	                	System.out.print("Digite a categoria da viagem desejada: ");
 	                	categoria = scanner.nextLine();
 
@@ -57,7 +57,7 @@ public class PassagemCRUD {
 	                case 3: 
 	                    System.out.print("Digite o ID da passagem que deseja atualizar: ");
 	                    id_passagem = scanner.nextInt();
-	                    scanner.nextLine(); // Limpa o buffer
+	                    scanner.nextLine(); 
 	                    System.out.print("Digite a cidade: ");
 	                    cidade = scanner.nextLine();
 	                    System.out.print("Digite a data da passagem: ");

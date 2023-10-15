@@ -1,6 +1,6 @@
 package br.com.crud.model;
 
-import java.util.ArrayList;
+
 
 public class ClienteModel {
 	
