@@ -6,16 +6,17 @@
   text-decoration: none;
 }
 
-/*.nav-item_2 {
+.nav-item_3 {
   
-  background-color: antiquewhite; /* Exemplo de cor de fundo vermelha */
-/*  color: #0e0606; /* Exemplo de cor do texto branco */
- /* Exemplo de preenchimento */
-/*  border-radius: 7px; /* Exemplo de borda arredondada */
-/*  position:absolute;
+  background-color: antiquewhite; 
+  color: #0e0606; 
+  border-radius: 7px;
+  text-justify:inter-cluster; 
+  position:absolute;
+  width: 3.7rem;
   right: 7rem;
 }  
-*/
+
 
 /* Configurações dos bodys das páginas */
 
