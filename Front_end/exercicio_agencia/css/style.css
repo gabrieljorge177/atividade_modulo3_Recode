@@ -6,12 +6,13 @@
   text-decoration: none;
 }
 
+/* Configuração do botão de login, localizado no NAVBAR */
+
 .nav-item_3 {
   
   background-color: antiquewhite; 
   color: #0e0606; 
   border-radius: 7px;
-  text-justify:inter-cluster; 
   position:absolute;
   width: 3.7rem;
   right: 7rem;
